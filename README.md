@@ -24,8 +24,4 @@ Course 9: [Coding Interview Preparation](https://www.coursera.org/learn/coding-i
 
 ## Live
 
-[Live Website](https://meta-front-end-developer.onrender.com/)
-
-## Demo
-
-![Little Lemon Website](./src/images/demo/LLDemo.gif)
+[Live Website](https://little-lemon-tpc7.onrender.com)
